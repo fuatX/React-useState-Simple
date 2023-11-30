@@ -11,10 +11,10 @@ ReactDOM.createRoot(document.getElementById("root")).render(
 /*
 - YAPILACAKLAR
 - [x] Pico Css kullanılacak.
-- [ ] Ana Gorsel Olcak
-- [ ] Hemen altta 5 adet küçük görsel olcak
-- [ ] Kucuk Görsellerden bİrine tıklayınca ana görsel değişecek
-- [ ] Görseller Lorem Picsum'dan gelecek
+- [x] Ana Gorsel Olcak
+- [x] Hemen altta 5 adet küçük görsel olcak
+- [x] Kucuk Görsellerden bİrine tıklayınca ana görsel değişecek
+- [x] Görseller Lorem Picsum'dan gelecek
 - [x] Default olarak 100 Nolu ID secilsin
-- [ ] Gorseller ARRAY olarak [200,201,202,203,204] olacak
+- [x] Gorseller Array olarak [100,211,222,103,44] olacak
 */
